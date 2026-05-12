@@ -41,7 +41,7 @@ La aplicacion principal se encuentra en [main.py](main.py). Desde alli se muestr
 
 ### Gestion de reservas
 
-- `seleccionarActividad()`: permite elegir entre Futbol 5, Tenis o Cumpleanos.
+- `seleccionarActividad()`: permite elegir entre Futbol 5, Tenis o Cumpleaños.
 - `seleccionarPrioridad()`: permite elegir entre Normal, Socio o Torneo.
 - `validarFecha()`: valida el formato `DD/MM/AAAA` y exige que el anio sea 2026 o posterior.
 - `validarHora()`: valida el formato `HH:MM`.
